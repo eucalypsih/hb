@@ -1,0 +1,2 @@
+n=GF t=rasa ps=2100 l=10 pb=21000
+n=FF t=susu ps=1500 l=6 pb=9000
